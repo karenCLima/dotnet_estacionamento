@@ -1,0 +1,15 @@
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\obj\Debug\net6.0\dotnet_estacionamento.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\obj\Debug\net6.0\dotnet_estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\obj\Debug\net6.0\dotnet_estacionamento.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\obj\Debug\net6.0\dotnet_estacionamento.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\obj\Debug\net6.0\dotnet_estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\bin\Debug\net6.0\dotnet_estacionamento.exe
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\bin\Debug\net6.0\dotnet_estacionamento.deps.json
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\bin\Debug\net6.0\dotnet_estacionamento.runtimeconfig.json
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\bin\Debug\net6.0\dotnet_estacionamento.dll
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\bin\Debug\net6.0\dotnet_estacionamento.pdb
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\obj\Debug\net6.0\dotnet_estacionamento.dll
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\obj\Debug\net6.0\refint\dotnet_estacionamento.dll
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\obj\Debug\net6.0\dotnet_estacionamento.pdb
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\obj\Debug\net6.0\dotnet_estacionamento.genruntimeconfig.cache
+C:\Users\55219\OneDrive\Desktop\Cursos\Bootcamp- Dio\dotnet\dotnet_estacionamento\obj\Debug\net6.0\ref\dotnet_estacionamento.dll
